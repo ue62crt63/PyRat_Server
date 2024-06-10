@@ -1,1 +1,3 @@
 autoupdate:True
+ping_listener:True
+ping_ip:ue62crt63noiphost.ddns.net
